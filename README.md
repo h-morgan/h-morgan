@@ -10,3 +10,5 @@ If you have any questions or want to get in touch with me:
 
 - email me @ haleymorgan3264@gmail.com
 - my [linkedin](https://www.linkedin.com/in/haleymorgan/) profile
+
+:large_organge_diamond: :white_circle:
