@@ -9,8 +9,7 @@ I like to work on personal projects in my free time, to help develop my knowledg
 If you have any questions or want to get in touch with me:
 
 - email me @ haleymorgan3264@gmail.com
-- my [linkedin](https://www.linkedin.com/in/haleymorgan/){:target="\_blank"}
-  profile
+- my <a href="https://www.linkedin.com/in/haleymorgan/" target="_blank">LinkedIn</a> profile
 
 <br>
 :large_orange_diamond: :white_circle: :large_orange_diamond:
