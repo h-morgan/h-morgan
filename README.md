@@ -2,7 +2,7 @@
 
 Hi, I'm Haley :wave:
 
-I'm a backend software engineer, having worked for both large enterprises and growth startups. I have extensive experience in building, maintaining, and managing backend services, APIs, data pipelines and external data integrations services.
+I'm a backend software engineer, having worked for everything from large enterprises, growth startups, and freelance clients. I have extensive experience in building, maintaining, and managing backend services, APIs, data pipelines and external data integrations services.
 
 I like to work on personal projects in my free time, to help develop my knowledge and expand my toolkit in the backend and data engineering worlds. Some of that work is showcased here on my Github, so thanks for checking it out.
 
